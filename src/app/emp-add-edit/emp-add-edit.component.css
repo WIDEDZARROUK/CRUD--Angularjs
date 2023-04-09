@@ -1,0 +1,20 @@
+h1{
+    color: rgb(151 144 144 / 90%);
+}
+.content{
+    padding-top: 10px;
+
+}
+.formclass{
+    display: flex;
+    gap:10px;
+}
+mat-form-field{
+    width: 100%;
+}
+.action{
+    padding: 0px 25px 20px;
+}
+button{
+    flex: 1;
+}
